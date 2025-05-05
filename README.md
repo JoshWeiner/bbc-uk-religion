@@ -42,7 +42,7 @@ open bbc_religions.html              # or double‑click in Finder / Explorer
 No build tools, databases, or servers are required.
 You can host the resulting HTML/CSS file on GitHub Pages or any static host.
 
-## Features
+## Features
 
 - Robust UTF‑8 fixer — resolves mojibake like CandomblÃ© → Candomblé
 - Modal preview — links open in an iframe overlay; if the BBC blocks embedding the code gracefully opens a new tab.
@@ -50,13 +50,13 @@ You can host the resulting HTML/CSS file on GitHub Pages or any static host.
 - Mobile‑friendly breakpoints & smooth‑scroll.
 - Minimal footprint: one HTML file + one CSS file + ~80 kB JS (inline).
 
-## Credits
+## Credits
 
 Original articles & images © BBC. Retrieved from https://www.bbc.co.uk/religion/religion.
 Project concept, scraper & UI © 2025 Joshua Weiner.
 Icons: Material Symbols (Apache 2.0).
 
-## License
+## License
 
 The code in this repo is released under the MIT License — see LICENSE.
 The embedded BBC content is used under fair‑dealing for educational purposes and must not be redistributed commercially.
