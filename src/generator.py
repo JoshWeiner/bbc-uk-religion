@@ -198,7 +198,7 @@ def build_html(rels: list[dict]) -> str:
             </html>
             """
 
-def main(out_path: str = "bbc_religions.html") -> None:
+def main(out_path: str = "index.html") -> None:
     religions = get_religions()
     for rel in religions:
         get_subsections(rel)
