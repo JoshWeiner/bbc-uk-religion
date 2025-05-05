@@ -12,14 +12,14 @@ An interactive, **self‑hosted classroom reference** that gathers the legacy �
 
 ---
 
-## Why?
+## Why?
 
 The original BBC Religions microsite is no longer actively maintained; its JavaScript is broken and the navigation is painful for students.  
 This project repackages the public‐domain HTML into a single, searchable hand‑out so learners can jump straight to the content.
 
 ---
 
-## What’s inside
+## What’s inside
 
 | Folder | Purpose |
 |--------|---------|
@@ -30,7 +30,7 @@ This project repackages the public‐domain HTML into a single, searchable hand�
 
 ---
 
-## Quick start
+## Quick start
 
 ```bash
 python -m venv venv && source venv/bin/activate
